@@ -1,3 +1,4 @@
+lx\com\zuul\config\GlobalCorsConfig.class
 lx\com\zuul\ZuulApplication.class
 lx\com\zuul\config\SwaggerConfig.class
 lx\com\zuul\config\DocumentationConfig.class

@@ -14,6 +14,7 @@
 
     <modules>
         <module>huangou-basic-util</module>
+        <module>huangou-basic-generator</module>
     </modules>
 
 

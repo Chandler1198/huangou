@@ -1,2 +1,15 @@
-lx\com\basic\util\PageList.class
+lx\com\basic\util\encrypt\MD5.class
+lx\com\basic\util\GlobalSetting.class
+lx\com\basic\util\PropertiesHelper.class
+lx\com\basic\util\CodeGenerateUtils.class
 lx\com\basic\util\AjaxResult.class
+lx\com\basic\util\encrypt\DES.class
+lx\com\basic\util\BitStatesUtils.class
+lx\com\basic\util\ClassUtils$1.class
+lx\com\basic\util\LetterUtil.class
+lx\com\basic\util\ProductStateConsts.class
+lx\com\basic\util\PageList.class
+lx\com\basic\util\BaseQuery.class
+lx\com\basic\util\ClassUtils.class
+lx\com\basic\util\StrUtils.class
+lx\com\basic\util\RedisUtils.class

@@ -1,0 +1,15 @@
+lx\com\huangou\service\impl\BrandServiceImpl.class
+lx\com\huangou\config\MybatisPlusConfig.class
+lx\com\huangou\controller\ProductTypeController.class
+lx\com\huangou\service\impl\ProductTypeServiceImpl.class
+lx\com\huangou\mapper\ProductTypeMapper.class
+lx\com\huangou\service\impl\ProductServiceImpl.class
+lx\com\huangou\service\IProductTypeService.class
+lx\com\huangou\mapper\BrandMapper.class
+lx\com\huangou\controller\BrandController.class
+lx\com\huangou\config\Swagger2.class
+lx\com\huangou\controller\ProductController.class
+lx\com\huangou\mapper\ProductMapper.class
+lx\com\huangou\service\IProductService.class
+lx\com\huangou\ProductApplication.class
+lx\com\huangou\service\IBrandService.class

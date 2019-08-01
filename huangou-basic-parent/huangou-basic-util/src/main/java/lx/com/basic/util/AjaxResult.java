@@ -1,9 +1,13 @@
 package lx.com.basic.util;
 
+/**
+ * Ajax请求结果的封装
+ */
 public class AjaxResult {
-    private boolean success;
 
-    private String message;
+    private boolean success = true;
+
+    private String message = "操作成功!";
 
     private Object restObj;
 
@@ -38,7 +42,7 @@ public class AjaxResult {
         return restObj;
     }
 
-    public Object setRestObj(Object restObj) {
+    public AjaxResult setRestObj(Object restObj) {
         this.restObj = restObj;
         return this;
     }

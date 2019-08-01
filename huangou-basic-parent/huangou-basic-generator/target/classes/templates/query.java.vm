@@ -1,0 +1,10 @@
+package lx.com.huangou.query;
+import lx.com.basic.util.BaseQuery;
+
+/**
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+public class ${table.entityName}Query extends BaseQuery{
+}

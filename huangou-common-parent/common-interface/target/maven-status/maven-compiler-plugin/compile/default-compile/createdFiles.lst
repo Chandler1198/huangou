@@ -1,0 +1,6 @@
+lx\com\common\client\RedisFallBackFactory.class
+lx\com\common\client\RedisClient.class
+lx\com\common\client\StaticPageClient.class
+lx\com\common\client\RedisFallBackFactory$1.class
+lx\com\common\client\StaticPageFallBackFactory$1.class
+lx\com\common\client\StaticPageFallBackFactory.class

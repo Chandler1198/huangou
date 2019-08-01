@@ -1,0 +1,6 @@
+lx\com\huangou\domain\Product.class
+lx\com\huangou\domain\ProductType.class
+lx\com\huangou\query\ProductTypeQuery.class
+lx\com\huangou\query\ProductQuery.class
+lx\com\huangou\domain\Brand.class
+lx\com\huangou\query\BrandQuery.class

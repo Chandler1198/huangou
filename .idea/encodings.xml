@@ -3,12 +3,17 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou-basic-parent" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/huangou-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-basic-parent/huangou-basic-generator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou-basic-parent/huangou-basic-util" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/huangou-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-common-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-common-parent/common-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-common-parent/common-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou-plat-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou-plat-parent/huangou-plat-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou-plat-parent/huangou-plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-product-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-product-parent/huangou-product-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huangou-product-parent/huangou-product-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou_config_server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou_eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/huangou_zuul" charset="UTF-8" />
